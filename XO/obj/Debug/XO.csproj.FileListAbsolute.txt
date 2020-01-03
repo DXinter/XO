@@ -1,0 +1,6 @@
+D:\Games\C#Project\Practic\XO\XO\bin\Debug\XO.exe
+D:\Games\C#Project\Practic\XO\XO\bin\Debug\XO.pdb
+D:\Games\C#Project\Practic\XO\XO\obj\Debug\XO.exe
+D:\Games\C#Project\Practic\XO\XO\obj\Debug\XO.pdb
+D:\Games\C#Project\Practic\XO\XO\bin\Debug\XO.exe.config
+D:\Games\C#Project\Practic\XO\XO\obj\Debug\XO.csprojAssemblyReference.cache
